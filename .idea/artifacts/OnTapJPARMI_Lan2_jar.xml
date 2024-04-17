@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OnTapJPARMI_Lan2:jar">
+    <output-path>$PROJECT_DIR$/../OnTapJPARMI_Lan2_Client/libs</output-path>
+    <root id="archive" name="OnTapJPARMI_Lan2.jar">
+      <element id="jpa-descriptors" facet="OnTapJPARMI_Lan2/jpa/JPA" />
+      <element id="module-output" name="OnTapJPARMI_Lan2" />
+    </root>
+  </artifact>
+</component>
